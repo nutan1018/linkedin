@@ -1,0 +1,58 @@
+.set{
+  height: 500px;
+  width: 400px;
+  background-color: black;
+  color: aqua;
+
+}
+
+.set1{
+  height: 340px;
+  border-color:beige;
+  border-radius: 10px;
+  border-width: 10px;
+  border-style: outset;
+}
+
+.set2{
+  height: 100px;
+  width: 80px;
+  background-color: black;
+  color: aqua;
+}
+
+.set3{
+  height: 50px;
+  border-color:beige;
+  border-radius: 2px;
+  border-width: 2px;
+  border-style: outset;
+}
+
+.text{
+  font-size: 10px;
+  text-align: center;
+}
+
+
+.show{
+  display: inline-block;
+}
+
+div.scrollmenu {
+  background-color:burlywood;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu fieldset {
+  display: inline-block;
+  color:aqua;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu fieldset:hover {
+  background-color:darkgray;
+}
